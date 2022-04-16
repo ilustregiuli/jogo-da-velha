@@ -29,3 +29,11 @@ button {
     cursor: pointer;
 }
 
+@media  screen and (max-width: 460px) {
+    .quadrado {
+        width: 30px;
+        font-size: 30px;
+    
+    }
+}
+
